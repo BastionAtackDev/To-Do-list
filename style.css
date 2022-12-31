@@ -1,6 +1,11 @@
 #app{
+    display: flex;
+    justify-content: center;
     width: 45vw;
     height: 75vh;
     margin: auto;
     background-color: tomato;
+}
+#CmdBar{
+    /* grid-area: "3"; */
 }
